@@ -1,0 +1,18 @@
+arrow|noun -=>> Here is one arrow: -=>>.
+book|noun -=>> A set of pages.|verb -=>> To arrange something on a particular date.
+bookable|adjective -=>> Can be ordered.
+bookbinder|noun -=>> A person who fastens the pages of books.
+bookcase|noun -=>> A piece of furniture with shelves.
+csc210|adjective -=>> Ready for CSC 220.|adjective -=>> Comfortable with Objects and Classes.|noun -=>> Intro to Java.|verb -=>> To learn Java.
+csc220|noun -=>> Data Structures.|verb -=>> To create data structures.|adjective -=>> Ready to create complex data structures.
+csc340|adjective -=>> C++ version of CSC210 + CSC220 + more.|noun -=>> A CS upper division course.|noun -=>> Many hours outside of class.
+placeholder|noun -=>> To be updated...|adjective -=>> To be updated...|adjective -=>> To be updated...|adverb -=>> To be updated...|conjunction -=>> To be updated...|interjection -=>> To be updated...|noun -=>> To be updated...|noun -=>> To be updated...|preposition -=>> To be updated...|pronoun -=>> To be updated...|verb -=>> To be updated...
+distinct|noun -=>> Distinct was in ASMT 01 as a parameter.|noun -=>> A keyword in this assignment.|adjective -=>> Unique. No duplicates. Clearly different or of a different kind.|adjective -=>> Familiar. Worked in Java.|noun -=>> An advanced search option.|noun -=>> A keyword in this assignment.|noun -=>> A keyword in this assignment.|adverb -=>> Uniquely. Written "distinctly".
+adverb|noun -=>> Adverb is a word that adds more information about place, time, manner, cause or degree to a verb, an adjective, a phrase or another adverb.
+adjective|noun -=>> Adjective is a word that describes a person or thing, for example big, red and clever in a big house, red wine and a clever idea.
+conjunction|noun -=>> Conjunction is a word that joins words, phrases or sentences, for example 'and', 'but', 'or'.
+interjection|noun -=>> Interjection is a short sound, word or phrase spoken suddenly to express an emotion. Oh!, Look out! and Ow! are interjections.
+noun|noun -=>> Noun is a word that refers to a person, (such as Ann or doctor), a place (such as Paris or city) or a thing, a quality or an activity (such as plant, sorrow or tennis.
+preposition|noun -=>> Preposition is a word or group of words, such as in, from, to, out of and on behalf of, used before a noun or pronoun to show place, position, time or method.
+pronoun|noun -=>> Pronoun is a word that is used instead of a noun or noun phrase, for example he, it, hers, me, them, etc...
+verb|noun -=>> Verb is a word or group of words that expresses an action (such as eat), an event (such as happen) or a state (such as exist).
